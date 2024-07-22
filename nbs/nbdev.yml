@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tut"
+  site-url: "https://MichaelrMentele.github.io/nbdev-tut"
+  description: "hello nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/MichaelrMentele/nbdev-tut"
