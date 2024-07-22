@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://MichaelrMentele.github.io',
                 'git_url': 'https://github.com/MichaelrMentele/nbdev-tut',
                 'lib_path': 'nbdev_tut'},
-  'syms': {'nbdev_tut.core': {'nbdev_tut.core.foo': ('core.html#foo', 'nbdev_tut/core.py')}}}
+  'syms': { 'nbdev_tut.core': { 'nbdev_tut.core.foo': ('core.html#foo', 'nbdev_tut/core.py'),
+                                'nbdev_tut.core.say_hello': ('core.html#say_hello', 'nbdev_tut/core.py')}}}
